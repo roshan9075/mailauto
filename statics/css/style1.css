@@ -1,0 +1,100 @@
+body
+{
+	margin:0;
+	padding:0;
+
+	font-family:sans-serif;
+}
+.w3-display-container
+{
+
+}
+.w3-display-topmiddle p
+{
+	font-weight:bold;
+
+}
+ .w3-display-topmiddle input[name="i11"]
+{
+	width:200px;
+
+	border:none;
+	border-bottom:1px solid #babdb6;
+	color:#babdb6;
+	background:transparent;
+	height:30px;
+
+}
+
+.w3-display-topmiddle input[name="i12"]
+{
+	width:200px;
+
+	border:none;
+	border-bottom:1px solid #babdb6;
+	color:#babdb6;
+	background:transparent;
+	height:30px;
+
+}
+.w3-display-topmiddle textarea[name="body"]
+{
+	height: 200px;
+	width: 500px;
+}
+.w3-display-topmiddle input[name="subject"]
+{
+	width: 400px;
+}
+.w3-display-topmiddle input[type="submit"]
+{
+	margin-top: 20px;
+	border:none;
+	outline:none;
+	height:40px;
+	background:#fcaf3e;
+	width: 30%;
+	border-radius:15px;
+	margin-left: 175px;
+}
+.w3-display-topmiddle input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:#a91212;
+	color:#000;
+}
+/*.loginbox input[type="text"],input[type="password"]
+{
+	border:none;
+	border-bottom:1px solid #babdb6;
+	color:#babdb6;
+	background:transparent;
+	height:30px;
+
+}
+.loginbox input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height:30px;
+	background:#fcaf3e;
+	size:20px;
+	border-radius:15px;
+}
+
+.loginbox input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:#a91212;
+	color:#000;
+}
+.loginbox a{
+	text-decoration:none;
+	font-size:15px;
+	line-height:20px;
+	color:darkgrey;
+}
+.loginbox a:hover{
+	color:#f57900;
+}
+*/
