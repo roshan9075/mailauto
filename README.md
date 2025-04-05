@@ -1,3 +1,3 @@
 Django Web App 
 
-Use Case : Send Cutomized HTML mails to Bulk audience at once.
+Use Case : Send Customized HTML mails to Bulk audience at once.
